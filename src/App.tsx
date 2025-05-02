@@ -7,7 +7,7 @@ function App() {
   const videoList = [
     "/videos/comercial-1.mp4",
     "/videos/comercial-2.mp4",
-    // "/videos/comercial-3.mp4",
+    "/videos/comercial-3.mp4",
     // "/videos/comercial-4.mp4",
     // "/videos/comercial-5.mp4",
     // "/videos/comercial-6.mp4",
