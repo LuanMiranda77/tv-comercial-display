@@ -12,7 +12,7 @@ function App() {
     "/videos/comercial-5.mp4",
     "/videos/comercial-6.mp4",
     "/videos/comercial-7.mp4",
-    // "/videos/comercial-8.mp4",
+    "/videos/comercial-8.mp4",
     // "/videos/comercial-9.mp4",
     // "/videos/comercial-10.mp4",
   ];
